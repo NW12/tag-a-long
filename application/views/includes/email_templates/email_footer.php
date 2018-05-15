@@ -1,0 +1,2 @@
+Styling CV sent this message to you. Styling CV is committed to your privacy. Learn more about our <a target="_blank" href="<?php echo base_url('privacy-policy'); ?>">Privacy Policy</a> and <a target="_blank" href="<?php echo base_url('terms-and-conditions'); ?>">Terms and Conditions</a>.
+<p>© <?php echo date('Y'); ?> Styling CV All rights reserved.</p>
